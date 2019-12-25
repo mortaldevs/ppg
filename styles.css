@@ -1,0 +1,17 @@
+html, body{
+    font-size:16px;
+    font-family: Arial;
+    background: #f5f5f5;
+}
+#first-card, #second-card{
+    margin: 50px;
+}
+#form-card{
+    margin-top: 50px;
+}
+#previewtxt{
+    text-align: center;
+}
+.error{
+    font-size:12px;
+}
